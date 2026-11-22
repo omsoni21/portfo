@@ -12,9 +12,10 @@ Building modern, intuitive, and scalable Android experiences.
   <a href="https://github.com/omsoni21"><img src="https://img.shields.io/badge/GitHub-omsoni21-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
   <a href="mailto:somofficial9661@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Om Soni" /></a>
   <a href="https://linkedin.com/in/om-soni-57a424256"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" /></a>
+  <a href="https://om-soni-portfolio.onrender.com"><img src="https://img.shields.io/badge/Live%20Portfolio-Visit-46E3B7?style=for-the-badge&logo=render&logoColor=white" alt="Live Om Soni portfolio" /></a>
 </p>
 
-[Explore the code](#-getting-started) · [See the projects](#-featured-projects) · [Get in touch](#-contact)
+[**View the live portfolio**](https://om-soni-portfolio.onrender.com) · [Explore the code](#-getting-started) · [See the projects](#-featured-projects) · [Get in touch](#-contact)
 
 </div>
 
@@ -27,6 +28,23 @@ Welcome! I’m **Om Soni**, a Computer Science Engineering graduate based in Bho
 | 📍 Location | 🎓 Education | 💼 Availability |
 |:--|:--|:--|
 | Bhopal, Madhya Pradesh, India | B.Tech, Computer Science Engineering | Open to Android Developer opportunities |
+
+## 🌐 Live Portfolio
+
+**Website:** [https://om-soni-portfolio.onrender.com](https://om-soni-portfolio.onrender.com)
+
+The portfolio is deployed on Render and includes responsive sections for projects, skills, experience, education, resume access, GitHub activity, and contact options.
+
+## 📦 Release Description
+
+**Portfolio Release v1.0**
+
+- Live portfolio deployment hosted on Render
+- Native Android and web project showcase with interactive previews
+- Project release statuses, technology stacks, source links, and APK download links
+- GitHub activity integration with an SEO-friendly Express server
+- Responsive interface optimized for desktop and mobile devices
+- About, skills, experience, education, resume, and contact sections
 
 ## 🧰 Tech Stack
 
@@ -158,6 +176,8 @@ See [`.env.example`](./.env.example) for the template. Never commit secrets or p
 ## ☁️ Deployment
 
 ### Deploy to Render
+
+**Production:** [https://om-soni-portfolio.onrender.com](https://om-soni-portfolio.onrender.com)
 
 This repository includes a [`render.yaml`](./render.yaml) Blueprint. To deploy:
 
