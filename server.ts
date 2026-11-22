@@ -5,7 +5,7 @@ import dotenv from 'dotenv';
 
 dotenv.config();
 
-const PORT = 3000;
+const PORT = Number(process.env.PORT) || 3000;
 const GITHUB_USERNAME = 'omsoni21';
 const RESUME_FILE_PATH = path.resolve(process.cwd(), 'public/resume.pdf');
 

@@ -157,7 +157,20 @@ See [`.env.example`](./.env.example) for the template. Never commit secrets or p
 
 ## ☁️ Deployment
 
-Build the production assets with `npm run build`. The Express server can be deployed to a Node.js host such as **Render, Railway, Fly.io,** or **Cloud Run**. It listens on port `3000`.
+### Deploy to Render
+
+This repository includes a [`render.yaml`](./render.yaml) Blueprint. To deploy:
+
+1. Sign in to [Render](https://render.com/) and choose **New → Blueprint**.
+2. Connect your GitHub account if needed, then select `omsoni21/portfo`.
+3. Give the Blueprint access to the repository and click **Apply**.
+4. Wait for the first build to finish, then open the service URL shown in Render.
+
+Render installs dependencies, builds the production site, and starts the Express server. The server uses Render's assigned `PORT` automatically. The free instance may take a little time to wake up after inactivity.
+
+Optional: set `GITHUB_TOKEN` in the Render service's **Environment** settings for a higher GitHub API rate limit. To receive contact-form submissions directly, set `VITE_FORMSPREE_ENDPOINT` there and redeploy; otherwise, the form opens a pre-filled email draft.
+
+Build locally with `npm run build`. The Express server can also be deployed to **Railway, Fly.io,** or **Cloud Run**.
 
 For Vercel’s serverless deployment, configure the server endpoints (including `/api/github`) as serverless functions.
 
