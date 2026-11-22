@@ -1,27 +1,6 @@
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./public/assets/projects/taskflow.jpg" alt="Taskflow Android app screenshots" width="100%" />
-      <strong>Taskflow · Android</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="./public/assets/projects/expense-tracker.jpg" alt="Expense Tracker Android app screenshot" width="100%" />
-      <strong>Expense Tracker · Android</strong>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="./public/assets/projects/freshkart.jpg" alt="FreshKart grocery shopping Android app screenshots" width="100%" />
-      <strong>FreshKart · Android</strong>
-    </td>
-    <td align="center" width="50%">
-      <img src="./public/assets/projects/fitnesstracker.jpg" alt="Fitness Tracker Android app screenshot" width="100%" />
-      <strong>Fitness Tracker · Android</strong>
-    </td>
-  </tr>
-</table>
+<img src="./omsoni.png" alt="Om Soni's Android developer portfolio" width="100%" />
 
 # Om Soni
 
@@ -67,12 +46,14 @@ Also familiar with **Firebase, Kotlin Coroutines, REST APIs, Git, React, Next.js
 <table>
   <tr>
     <td width="50%" valign="top">
+      <img src="./public/assets/projects/taskflow.jpg" alt="Taskflow Android app screenshots" width="100%" />
       <h3>📋 Taskflow</h3>
       <p>A modern Android task manager with daily planning, Jetpack Compose UI, and offline-first Room persistence.</p>
       <p><strong>Built with:</strong> Kotlin · Jetpack Compose · Material Design 3 · Room</p>
       <a href="https://github.com/omsoni21/Taskflow">Source code</a> · <a href="https://github.com/omsoni21/Taskflow/raw/main/Taskflow-v1.0.apk">Download APK</a>
     </td>
     <td width="50%" valign="top">
+      <img src="./public/assets/projects/expense-tracker.jpg" alt="Expense Tracker Android app screenshot" width="100%" />
       <h3>💸 Expense Tracker</h3>
       <p>Track daily income and expenses in a clean Android app with local storage and MVVM architecture.</p>
       <p><strong>Built with:</strong> Kotlin · Jetpack Compose · Room · MVVM</p>
@@ -80,16 +61,41 @@ Also familiar with **Firebase, Kotlin Coroutines, REST APIs, Git, React, Next.js
   </tr>
   <tr>
     <td width="50%" valign="top">
+      <img src="./public/assets/projects/freshkart.jpg" alt="FreshKart grocery shopping Android app screenshots" width="100%" />
       <h3>🛒 FreshKart</h3>
       <p>A grocery shopping app concept with customer and seller experiences, currently in development.</p>
       <p><strong>Built with:</strong> Kotlin · Jetpack Compose · Firebase</p>
     </td>
     <td width="50%" valign="top">
+      <img src="./public/assets/projects/alumni-platform.jpg" alt="Alumni Association Platform screenshot" width="100%" />
       <h3>🎓 Alumni Platform</h3>
       <p>A responsive alumni networking platform with authentication and a MongoDB-backed directory.</p>
       <p><strong>Built with:</strong> JavaScript · MongoDB · Responsive UI</p>
       <a href="https://alumni-ses.netlify.app">View live</a>
     </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./public/assets/projects/fitnesstracker.jpg" alt="Fitness Tracker Android app screenshot" width="100%" />
+      <h3>🏃 Fitness Tracker</h3>
+      <p>A fitness and activity tracking app concept with daily health stats and progress visualizations.</p>
+      <p><strong>Built with:</strong> Kotlin · Jetpack Compose · Android</p>
+    </td>
+    <td width="50%" valign="top">
+      <img src="./public/assets/projects/habitflow.jpg" alt="HabitFlow Android app screenshot" width="100%" />
+      <h3>✅ HabitFlow</h3>
+      <p>A habit-building app concept for tracking routines, streaks, and weekly progress.</p>
+      <p><strong>Built with:</strong> Kotlin · Jetpack Compose · Android</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="./public/assets/projects/railspace-lease.jpg" alt="Railspace Lease Management web application screenshot" width="100%" />
+      <h3>🚆 Railspace Lease Management</h3>
+      <p>A web-based workflow system for railway leases, with API integrations and a responsive dashboard.</p>
+      <p><strong>Built with:</strong> Next.js · React · Tailwind CSS · REST APIs</p>
+    </td>
+    <td width="50%" valign="top"></td>
   </tr>
 </table>
 
