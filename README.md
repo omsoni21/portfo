@@ -1,6 +1,27 @@
 <div align="center">
 
-<img src="./public/assets/aistudio/Neon_Android_Developer_Portfolio_0b0f2f48.png" alt="Om Soni — Android Developer Portfolio" width="100%" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./public/assets/projects/taskflow.jpg" alt="Taskflow Android app screenshots" width="100%" />
+      <strong>Taskflow · Android</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="./public/assets/projects/expense-tracker.jpg" alt="Expense Tracker Android app screenshot" width="100%" />
+      <strong>Expense Tracker · Android</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="./public/assets/projects/freshkart.jpg" alt="FreshKart grocery shopping Android app screenshots" width="100%" />
+      <strong>FreshKart · Android</strong>
+    </td>
+    <td align="center" width="50%">
+      <img src="./public/assets/projects/fitnesstracker.jpg" alt="Fitness Tracker Android app screenshot" width="100%" />
+      <strong>Fitness Tracker · Android</strong>
+    </td>
+  </tr>
+</table>
 
 # Om Soni
 
